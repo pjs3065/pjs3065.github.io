@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to pjs3065's Github"
 date:   2018-03-20 00:34:26 +0900
 categories: jekyll update
 ---
